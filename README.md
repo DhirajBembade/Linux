@@ -1,5 +1,5 @@
 # Linux Tutorial-
-
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/BigheartedMassiveEastsiberianlaika-size_restricted.gif">
 Download Virtual Box and Ubuntu
 
 
@@ -22,5 +22,4 @@ Download Virtual Box and Ubuntu
  [https://www.youtube.com/watch?v=v1JVqd8M3Yc] or
  
  [https://www.youtube.com/watch?v=_tCY-c-sPZc&t=1238s]
-
 
